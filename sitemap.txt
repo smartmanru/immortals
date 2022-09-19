@@ -1,0 +1,5 @@
+index.markdown
+	unformatted.markdown
+	eu.markdown
+	rus.markdown
+
